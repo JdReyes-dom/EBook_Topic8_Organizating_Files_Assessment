@@ -28,7 +28,7 @@ const QUIZ_QUESTIONS = [
     id: 3,
     grade: 'Digital Values',
     subject: 'Application',
-    question: 'You just finished your Math assignment. What is the best way to save it?',
+    question: 'You just finished your math assignment. What is the best way to save it?',
     choices: {
       a: 'Save it in a random folder with any name.',
       b: 'Put it in the Math folder and give it a clear file name.',
@@ -82,7 +82,7 @@ const QUIZ_QUESTIONS = [
     id: 7,
     grade: 'Digital Values',
     subject: 'Comprehension',
-    question: 'Why did Roni decide to organize her computer after finding her Science project?',
+    question: 'Why did Roni decide to organize her computer after finding her science project?',
     choices: {
       a: 'She wanted to delete her old schoolwork.',
       b: 'She wanted to make her computer look colorful.',
@@ -97,7 +97,7 @@ const QUIZ_QUESTIONS = [
     id: 8,
     grade: 'Digital Values',
     subject: 'Analysis',
-    question: 'Roni had difficulty finding her Science project. What should she have done before her computer became messy?',
+    question: 'Roni had difficulty finding her science project. What should she have done before her computer became messy?',
     choices: {
       a: 'Saved every file on the Desktop.',
       b: 'Organized her files into folders and used clear file names.',
@@ -123,7 +123,7 @@ const QUIZ_QUESTIONS = [
     id: 10,
     grade: 'Digital Values',
     subject: 'Analysis',
-    question: 'Roni spent a lot of time checking unrelated folders before finding her Science project. What does this show about the importance of organizing files?',
+    question: 'Roni spent a lot of time checking unrelated folders before finding her science project. What does this show about the importance of organizing files?',
     choices: {
       a: 'Organized files take up more computer space.',
       b: 'Organized files make it easier and faster to find what you need.',
